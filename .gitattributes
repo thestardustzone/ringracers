@@ -1,0 +1,9 @@
+/DC_Aseprite_V1.0.1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_Bonnie_the_Rabbit_V1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_Chica_the_Chicken_V1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_EmiToshiba1105_v1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_Freddy_Fazbear_V1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_Mohwe_V1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_Patty_v1.3.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_Sparky_the_Dog_V1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_Wario1105_v2.pk3 filter=lfs diff=lfs merge=lfs -text
