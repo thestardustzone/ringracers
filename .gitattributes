@@ -31,3 +31,7 @@
 /DCL_DarkRiderShadow-v1.pk3 filter=lfs diff=lfs merge=lfs -text
 /DC_RRRP_WowWowWubbzyPack-v4.5.pk3 filter=lfs diff=lfs merge=lfs -text
 /DFC_Robpack_v1.1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCFL_BluPak-v1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCF_JyshPack-v1.2.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_Bombermania_V2.1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_ChengiChars-v5.pk3 filter=lfs diff=lfs merge=lfs -text
