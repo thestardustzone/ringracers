@@ -99,3 +99,7 @@
 /DR_LowVoltageMaps-v0.1.4.pk3 filter=lfs diff=lfs merge=lfs -text
 /DR_NicosSmile_v1.1.pk3 filter=lfs diff=lfs merge=lfs -text
 /DR_YellowCrocodileCup-v1.3.pk3 filter=lfs diff=lfs merge=lfs -text
+/DRBS_MiracleCup-b06.3.pk3 filter=lfs diff=lfs merge=lfs -text
+/DRF_LP_v0.4.pk3 filter=lfs diff=lfs merge=lfs -text
+/DRL_SUPERMETAL_r2.pk3 filter=lfs diff=lfs merge=lfs -text
+/DR_SonisTrackPack_v1.0.1.pk3 filter=lfs diff=lfs merge=lfs -text
