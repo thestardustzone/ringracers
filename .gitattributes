@@ -48,3 +48,16 @@
 /DC_Naruto_Uzumaki_V1.pk3 filter=lfs diff=lfs merge=lfs -text
 /DC_Rasslor_v1.pk3 filter=lfs diff=lfs merge=lfs -text
 /DC_WYVOL_V4.PK3 filter=lfs diff=lfs merge=lfs -text
+/DCF_SouthParkPack_v1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_Bass_Armstrong_v1.wad filter=lfs diff=lfs merge=lfs -text
+/DC_Chip-v1.wad filter=lfs diff=lfs merge=lfs -text
+/DC_E102Gamma-V1.0.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_Futaba_V1.wad filter=lfs diff=lfs merge=lfs -text
+/DC_HatKid.wad filter=lfs diff=lfs merge=lfs -text
+/DC_KingKRool_v1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_Ladiva_v1.wad filter=lfs diff=lfs merge=lfs -text
+/DC_Sage_v1.1.wad filter=lfs diff=lfs merge=lfs -text
+/DC_Sandy_v1.1.wad filter=lfs diff=lfs merge=lfs -text
+/DC_Star_Man_v1.wad filter=lfs diff=lfs merge=lfs -text
+/DC_The_Amazon_v1.wad filter=lfs diff=lfs merge=lfs -text
+/DC_Tina_Armstrong_v1.wad filter=lfs diff=lfs merge=lfs -text
