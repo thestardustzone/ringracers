@@ -7,3 +7,15 @@
 /DC_Patty_v1.3.pk3 filter=lfs diff=lfs merge=lfs -text
 /DC_Sparky_the_Dog_V1.pk3 filter=lfs diff=lfs merge=lfs -text
 /DC_Wario1105_v2.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_AoiKazanari_v1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_BFOs_Wave_of_Racers_v0.4.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_BIS_Bowser_V1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_BassEXE_v1.2.wad filter=lfs diff=lfs merge=lfs -text
+/DC_Cathy_Portillo_v1.wad filter=lfs diff=lfs merge=lfs -text
+/DC_Croc_V21.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_Foxy_the_Pirate_V1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_Mickey_Mouse_v1.wad filter=lfs diff=lfs merge=lfs -text
+/DC_ProfessorRenderer-v1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_Saul_v1.0.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_Shantae_v1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_SybilPseudo_V1.wad filter=lfs diff=lfs merge=lfs -text
