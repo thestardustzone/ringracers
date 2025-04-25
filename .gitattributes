@@ -82,3 +82,6 @@
 /DC_AaronPack_v1.4.pk3 filter=lfs diff=lfs merge=lfs -text
 /DC_JimmiePack_v1.9.pk3 filter=lfs diff=lfs merge=lfs -text
 /DC_MobyDrivers_v4.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCFL_BlockBrakers_V2.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCF_BONUSCHARS_v1.1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCF_Turb0ksWackyPack_2.5.pk3 filter=lfs diff=lfs merge=lfs -text
