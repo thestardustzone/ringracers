@@ -35,3 +35,6 @@
 /DCF_JyshPack-v1.2.pk3 filter=lfs diff=lfs merge=lfs -text
 /DC_Bombermania_V2.1.pk3 filter=lfs diff=lfs merge=lfs -text
 /DC_ChengiChars-v5.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCFL_MagnoliaPack_v11.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCF_JoeChinsRingRacersNOW-v1.1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCL_Disgaea_Chars_Redux-v1.pk3 filter=lfs diff=lfs merge=lfs -text
