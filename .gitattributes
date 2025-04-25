@@ -87,3 +87,5 @@
 /DCF_Turb0ksWackyPack_2.5.pk3 filter=lfs diff=lfs merge=lfs -text
 /DCF_CombiCatchers-v1.pk3 filter=lfs diff=lfs merge=lfs -text
 /DC_SaturnSTRacers-V6.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCFL_CombiLockOn-v2.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCFL_King_Dededes_Drift_Deluxe_v1.pk3 filter=lfs diff=lfs merge=lfs -text
