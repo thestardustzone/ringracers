@@ -78,3 +78,7 @@
 /DC_Darkaym's_Goomy_Pack_V3.pk3 filter=lfs diff=lfs merge=lfs -text
 /DC_MiniCars-V3.1.pk3 filter=lfs diff=lfs merge=lfs -text
 /DC_YTMPokemonRacers_v1.3.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCL_UdgeysWorkbench_v4.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_AaronPack_v1.4.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_JimmiePack_v1.9.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_MobyDrivers_v4.pk3 filter=lfs diff=lfs merge=lfs -text
