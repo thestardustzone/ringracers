@@ -61,3 +61,13 @@
 /DC_Star_Man_v1.wad filter=lfs diff=lfs merge=lfs -text
 /DC_The_Amazon_v1.wad filter=lfs diff=lfs merge=lfs -text
 /DC_Tina_Armstrong_v1.wad filter=lfs diff=lfs merge=lfs -text
+/DCL_Barikart_v3.1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_BlastProcessingPack2.1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_Demoman-v1.wad filter=lfs diff=lfs merge=lfs -text
+/DC_Dreamcasko_v1.wad filter=lfs diff=lfs merge=lfs -text
+/DC_FrostBrushChars-v2.0.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_Heavy-v1.2.0.wad filter=lfs diff=lfs merge=lfs -text
+/DC_Infinite-v1.wad filter=lfs diff=lfs merge=lfs -text
+/DC_Scout-v1.1.0.wad filter=lfs diff=lfs merge=lfs -text
+/DC_Werehog_V1.wad filter=lfs diff=lfs merge=lfs -text
+/DC_Zero_v1.wad filter=lfs diff=lfs merge=lfs -text
