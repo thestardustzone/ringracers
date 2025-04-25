@@ -40,3 +40,11 @@
 /DCL_Disgaea_Chars_Redux-v1.pk3 filter=lfs diff=lfs merge=lfs -text
 /DCFL_AquaDicePack_v6.0.pk3 filter=lfs diff=lfs merge=lfs -text
 /DCFL_KelPack_v9.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCL_Demoncore_v1.0.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_Gintoki_Sakata_V1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_GonGon_v1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_Izuku_Midoriya_V1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_Monkey_D._Luffy_V2.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_Naruto_Uzumaki_V1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_Rasslor_v1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_WYVOL_V4.PK3 filter=lfs diff=lfs merge=lfs -text
