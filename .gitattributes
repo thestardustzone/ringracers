@@ -103,3 +103,6 @@
 /DRF_LP_v0.4.pk3 filter=lfs diff=lfs merge=lfs -text
 /DRL_SUPERMETAL_r2.pk3 filter=lfs diff=lfs merge=lfs -text
 /DR_SonisTrackPack_v1.0.1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DRBS_TanukiPack_v1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DRB_AbstractMaps-v1.0.1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DRSL_lizardpack_v1.5.1.pk3 filter=lfs diff=lfs merge=lfs -text
