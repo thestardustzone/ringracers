@@ -26,3 +26,8 @@
 /DC_Mew_Mew_Pack_V1.pk3 filter=lfs diff=lfs merge=lfs -text
 /DC_RotaryChars-V2.pk3 filter=lfs diff=lfs merge=lfs -text
 /StardustServerPack_v4.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCF_SpongePack_V2_Preview.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCL_CrossPak_v2.0.1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCL_DarkRiderShadow-v1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_RRRP_WowWowWubbzyPack-v4.5.pk3 filter=lfs diff=lfs merge=lfs -text
+/DFC_Robpack_v1.1.pk3 filter=lfs diff=lfs merge=lfs -text
