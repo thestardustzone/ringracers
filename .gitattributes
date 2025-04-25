@@ -95,3 +95,7 @@
 /DR_MaizeValley_v1.pk3 filter=lfs diff=lfs merge=lfs -text
 /DR_SealedStarPack-b1.pk3 filter=lfs diff=lfs merge=lfs -text
 /DR_Sky_Temple__Rahisaurus_v1.2.pk3 filter=lfs diff=lfs merge=lfs -text
+/DR_LOGMAPS_v1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DR_LowVoltageMaps-v0.1.4.pk3 filter=lfs diff=lfs merge=lfs -text
+/DR_NicosSmile_v1.1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DR_YellowCrocodileCup-v1.3.pk3 filter=lfs diff=lfs merge=lfs -text
