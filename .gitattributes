@@ -108,3 +108,4 @@
 /DRSL_lizardpack_v1.5.1.pk3 filter=lfs diff=lfs merge=lfs -text
 /DRBL_DraftTracksRR_v4.pk3 filter=lfs diff=lfs merge=lfs -text
 /DRB_Dreturns_v2.pk3 filter=lfs diff=lfs merge=lfs -text
+/DRBL_BushmillCup_v1.1.4b.pk3 filter=lfs diff=lfs merge=lfs -text
