@@ -71,3 +71,10 @@
 /DC_Scout-v1.1.0.wad filter=lfs diff=lfs merge=lfs -text
 /DC_Werehog_V1.wad filter=lfs diff=lfs merge=lfs -text
 /DC_Zero_v1.wad filter=lfs diff=lfs merge=lfs -text
+/DCFL_Kaiyo's_Fun_Pak-v2.0.1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCF_TOGAPack_v1.1a.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCK_Thomas_And_Friends_Pack.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCL_2ST-RPR_OCs-NetplayVer_v1.1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_Darkaym's_Goomy_Pack_V3.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_MiniCars-V3.1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_YTMPokemonRacers_v1.3.pk3 filter=lfs diff=lfs merge=lfs -text
