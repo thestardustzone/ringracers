@@ -139,3 +139,5 @@
 /DC_Bombermania_V3.1.pk3 filter=lfs diff=lfs merge=lfs -text
 /DR_FrostMaps-v3.3.pk3 filter=lfs diff=lfs merge=lfs -text
 /DRBSL_lizardpack_v1.6.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCF_RRRP_PocoyoPack-v4.4.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_RRRP_Shimmer&ShinePack-v1.2.pk3 filter=lfs diff=lfs merge=lfs -text
