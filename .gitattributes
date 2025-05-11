@@ -148,3 +148,4 @@
 /DRBSL_Wonder_Cup-b07.1.pk3 filter=lfs diff=lfs merge=lfs -text
 /DR_CASTrackPak1_V6.4.pk3 filter=lfs diff=lfs merge=lfs -text
 /DR_CASTrackPak2_V6.4.pk3 filter=lfs diff=lfs merge=lfs -text
+/StardustServerPack_v5.2.1.pk3 filter=lfs diff=lfs merge=lfs -text
