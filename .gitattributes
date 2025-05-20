@@ -156,3 +156,4 @@
 /DR_CASTrackPak3_V6.6.pk3 filter=lfs diff=lfs merge=lfs -text
 /DRBL_cervid-B+R_v1-1.pk3 filter=lfs diff=lfs merge=lfs -text
 /DRBL_EpicCupRevival-v1.1.2.pk3 filter=lfs diff=lfs merge=lfs -text
+/DR_YellowCrocodileCup-v2.pk3 filter=lfs diff=lfs merge=lfs -text
