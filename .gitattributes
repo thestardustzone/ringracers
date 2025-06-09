@@ -175,3 +175,4 @@
 /DR_CASTrackPak2_V6.9.pk3 filter=lfs diff=lfs merge=lfs -text
 /DR_CASTrackPak3_V6.9.pk3 filter=lfs diff=lfs merge=lfs -text
 /DR_Spindashpak_RE-PAK_V1.4b.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCL_AaronPack_v3.3.pk3 filter=lfs diff=lfs merge=lfs -text
