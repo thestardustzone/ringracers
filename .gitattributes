@@ -180,3 +180,5 @@
 /DCL_Miku_Hatsune_V1.pk3 filter=lfs diff=lfs merge=lfs -text
 /DCF_BONUSCHARS_V2.01.pk3 filter=lfs diff=lfs merge=lfs -text
 /DR_YellowCrocodileCup-v2.1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCF_BONUSCHARS_V2.2.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCL_AaronPack_v3.4.pk3 filter=lfs diff=lfs merge=lfs -text
