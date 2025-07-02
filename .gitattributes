@@ -182,3 +182,14 @@
 /DR_YellowCrocodileCup-v2.1.pk3 filter=lfs diff=lfs merge=lfs -text
 /DCF_BONUSCHARS_V2.2.pk3 filter=lfs diff=lfs merge=lfs -text
 /DCL_AaronPack_v3.4.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCFL_SuperMarioKartCollection_v2.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCFL_bepiPack_v4.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCF_MiscelaniousSpeedsters-v2.pk3 filter=lfs diff=lfs merge=lfs -text
+/DCL_MetalPack-v5.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_CFalcon_v1.wad filter=lfs diff=lfs merge=lfs -text
+/DC_Eustace_Bagge.wad filter=lfs diff=lfs merge=lfs -text
+/DC_PrescriptionPack_v1.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_PyPak_Racers-v2.1.0.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_YoumuKonpaku_v1.0.pk3 filter=lfs diff=lfs merge=lfs -text
+/DC_starscharrs-v3.pk3 filter=lfs diff=lfs merge=lfs -text
+/DRBLS_Pro_Pack_X_v2.1.0.pk3 filter=lfs diff=lfs merge=lfs -text
