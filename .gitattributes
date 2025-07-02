@@ -1,3 +1,6 @@
+version https://git-lfs.github.com/spec/v1
+oid sha256:86e3ece3b61ba23fa14ed4b98432ca780ef1ace482f5b39ceb5a89ed13e35578
+size 82
 /DC_Aseprite_V1.0.1.pk3 filter=lfs diff=lfs merge=lfs -text
 /DC_Bonnie_the_Rabbit_V1.pk3 filter=lfs diff=lfs merge=lfs -text
 /DC_Chica_the_Chicken_V1.pk3 filter=lfs diff=lfs merge=lfs -text
