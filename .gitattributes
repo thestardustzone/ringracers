@@ -1,4 +1,7 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
+*.pk3 filter=lfs diff=lfs merge=lfs -text
+*.wad filter=lfs diff=lfs merge=lfs -text
+*.lua filter=lfs diff=lfs merge=lfs -text
 /DC_Aseprite_V1.0.1.pk3 filter=lfs diff=lfs merge=lfs -text
 /DC_Bonnie_the_Rabbit_V1.pk3 filter=lfs diff=lfs merge=lfs -text
 /DC_Chica_the_Chicken_V1.pk3 filter=lfs diff=lfs merge=lfs -text
